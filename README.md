@@ -8,3 +8,9 @@ In this repo I wanted to collect together notes, ideas and especially some code 
 
 To make any of these Scheme files work you need to install [stklos](https://www.stklos.net/) then execute the interpreter and run the following line ```(load "simply.csm")``` where simply.scm is the full path to the simply.scm file included in this repo. STKlos is a form of Scheme with the Tk graphical interface library included. Why 
 
+## Course
+
+If you're interested in taking the course check out the following links:
+* [Video Lectures](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9)
+* [EdX Course](https://edge.edx.org/courses/uc-berkeley/cs61as-1x/SICP/about)
+* [SICP Book 2nd Ed.](https://opendocs.github.io/sicp/sicp.pdf)
