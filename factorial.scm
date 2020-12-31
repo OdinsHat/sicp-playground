@@ -5,5 +5,5 @@
 
 (define (fact x)
   (if (> x 0)
-    ( * (* x ( x - 1)) (fact x))
-))
+    (* x (fact (- x 1))
+)))
