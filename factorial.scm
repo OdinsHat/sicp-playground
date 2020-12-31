@@ -4,6 +4,8 @@
 ;;; BSD License 3 clause like everything else
 
 (define (fact x)
-  (if (> x 0)
-    (* x (fact (- x 1))
-)))
+  (if (= x 1)
+    1
+    (* x (fact (- x 1)))
+  )
+)
