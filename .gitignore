@@ -35,3 +35,7 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+.clj-kondo/
+.calva
+.lsp
