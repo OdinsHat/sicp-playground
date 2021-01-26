@@ -14,7 +14,7 @@
     )
 )
 
-;;; Instead do it like this.....
+;;; Instead do it like this..... 
 
 (define (sum fn a b)
     (if (> a b)
